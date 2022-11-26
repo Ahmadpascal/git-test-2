@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>testtt!!</h1>
+    <p>paragraf baruu</p>
+    <ul>
+        <li>li baru</li>
+        <li>li baru</li>
+    </ul>
 </body>
 </html>
